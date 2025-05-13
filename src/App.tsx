@@ -48,7 +48,7 @@ const App = () => {
                         }
                         setGridItems(tempGrid);
                         setShowCount(0);
-                    }, 1000);
+                    }, 600);
                 }
 
                 setMoveCount(moveCount + 1);
